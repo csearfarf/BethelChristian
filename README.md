@@ -1,2 +1,2 @@
-# BethelChristian
-Laravel (on-progress)
+# Bethel Christian Student Management System
+
